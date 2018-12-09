@@ -1,5 +1,4 @@
 # MEANStackStudy
-=====================
 Study About Mongo DB + Express js + Angular js + Node js</br>
 
 ## What is 'MEAN'?
