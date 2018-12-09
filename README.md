@@ -40,3 +40,8 @@ Angular JS is framework for makeing SPA(Single Page Application) at front-end(Cl
 * Communicate with backend services</br>
 It provieds a "Mobile App" like user experience.</br>
 It uses javascript as programming language, but could be difficult to use it as a first time.</br>
+
+## MEAN Big Picture
+* Picture from https://www.youtube.com/watch?v=1tRLveSyNz8 (Academind youtube "Angular - Node - MongoDB & Express (MEAN) Tutorial for Beginners - Getting Started")</br>
+![default](https://user-images.githubusercontent.com/45725504/49695447-a5562d80-fbde-11e8-94e5-6f52ffaaa08a.PNG)
+
