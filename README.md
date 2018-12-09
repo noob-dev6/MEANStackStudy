@@ -1,7 +1,9 @@
 # MEANStackStudy
+================
 Study About Mongo DB + Express js + Angular js + Node js</br>
 
 ## What is 'MEAN'?
+==================
 MEAN Stack is one of the program set for web developing.</br>
 Mongo DB, Express JS, Angular JS, and Node JS.</br>
 All of them are open source, and using javascript language.</br>
@@ -40,3 +42,8 @@ Angular JS is framework for makeing SPA(Single Page Application) at front-end(Cl
 * Communicate with backend services</br>
 It provieds a "Mobile App" like user experience.</br>
 It uses javascript as programming language, but could be difficult to use it as a first time.</br>
+
+## MEAN Big Picture
+===================
+![default](https://user-images.githubusercontent.com/45725504/49695447-a5562d80-fbde-11e8-94e5-6f52ffaaa08a.PNG)
+
